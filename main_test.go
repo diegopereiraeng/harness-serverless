@@ -1,3 +1,14 @@
+package main
+
+import (
+	"fmt"
+	"io"
+	"net/http"
+	"testing"
+
+	"github.com/stretchr/testify/require"
+)
+
 func TestRespondsWithLove(t *testing.T) {
 
 	pool, err := dockertest.NewPool("")
