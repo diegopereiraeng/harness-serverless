@@ -11,4 +11,25 @@ This lab will take you through how Harness can do serverless.com deployments in 
 - Harness Account
 - Github Account 
 
+## Lab
+
+1. Create a Project
+
+2. Create a Pipeline
+
+3. Add a CD Stage
+
+4. Configure a Service
+
+5. Add a Serverless Manifest
+
+6. Add an Artifact for Harness to manage
+
+7. Configure an Environment
+
+8. Configure an AWS Infrastructure Definition
+
+9. Add a Serverless Deploy Step to the Execution Section 
+
+10. Run Pipeline
 
