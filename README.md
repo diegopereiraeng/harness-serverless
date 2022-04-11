@@ -33,3 +33,7 @@ This lab will take you through how Harness can do serverless.com deployments in 
 
 10. Run Pipeline
 
+---
+
+*Credit* 
+Serverless.com Team provides sample apps, we are building off one of these for our example - https://github.com/serverless/examples/tree/v3/aws-node-rest-api 
